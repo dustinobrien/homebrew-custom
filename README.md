@@ -1,4 +1,4 @@
 To tap run: 
-  brew tap casidiablo/custom
+  brew tap dustinobrien/custom
 
 Then install as normal
